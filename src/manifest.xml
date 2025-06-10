@@ -1,0 +1,4 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>OTP-8906 API for 3rd party Applications</projectname>
+  <frameworkversion>1.0</frameworkversion>
+</manifest>
